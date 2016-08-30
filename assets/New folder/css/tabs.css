@@ -1,0 +1,86 @@
+
+/* root element for tabs  */
+ul.tabs { 
+	list-style:none; 
+	margin:0 !important; 
+	padding-left:5px;
+	height:30px;
+}
+
+/* single tab */
+ul.tabs li { 
+	color:#000000;
+	float:left;	 
+	text-indent:0;
+	padding:0;
+	margin:0 !important;
+	list-style-image:none !important; 
+}
+
+/* link inside the tab. uses a background image */
+ul.tabs a { 
+	color:#000000;
+	background-color:#FFF4FA;
+	font-size:12px;
+	font-weight: bold;
+	display:block;
+	height: 28px;  
+	line-height:30px;
+	width: 134px;
+	text-align:center;	
+	text-decoration:none;
+	padding:0px;
+	margin-left:5px;	
+	position:relative;
+	top:1px;
+	border-top:1px solid #cccccc;
+	border-left:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+
+}
+
+ul.tabs a:active {
+	outline:none;
+	
+}
+
+/* when mouse enters the tab move the background image */
+ul.tabs a:hover {
+	background-position: -420px -31px;	
+	background-color:#e8ffaf;
+}
+
+/* active tab uses a class name "current". it's highlight is also done by moving the background image. */
+ul.tabs a.current, ul.tabs a.current:hover, ul.tabs li.current a {
+	background-position: -420px -62px;		
+	cursor:default !important; 
+	color:#FFB900;
+	border-bottom:2px solid #ffffff;
+	background-color:#ffffff;
+}
+
+
+/* initially all panes are hidden */ 
+div.panes div.pane {
+	display:none;	
+}
+
+/* tab pane styling */
+div.panes {
+	padding:15px 10px;
+	border:1px solid #cccccc;
+	background-color:#fff;
+}
+
+/* end tab styling */
+
+
+/* get rid of those system borders being generated for A tags */
+a:active {
+  outline:none;
+
+}
+:focus {
+  
+
+}
