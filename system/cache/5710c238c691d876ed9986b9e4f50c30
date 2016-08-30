@@ -1,0 +1,81 @@
+1279715353TS---><!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="keywords" content="some meta keyword">
+        <meta name="description" content="some description">
+        <meta name="distribution" content="Global">
+        <meta name="revisit-after" content="1 days">
+        <meta name="robots" content="index,follow">
+        <meta name="googlebot" content="index,follow">
+        <title>Kutu dan Jamur -
+            Ayam dan Unggas        </title>
+        <link rel="stylesheet" href="http://localhost/kutudanjamur/assets/css/screen.css" type="text/css" media="screen, projection">
+        <!--[if lt IE 8]><link rel="stylesheet" href="http://localhost/kutudanjamur/assets/css/ie.css" type="text/css"><![endif]-->
+        <link rel="stylesheet" href="http://localhost/kutudanjamur/assets/css/print.css" type="text/css" media="print">
+        <script type="text/javascript" src="http://localhost/kutudanjamur/assets/js/jquery-1.4.1.min.js"></script>
+        <script type="text/javascript" src="http://localhost/kutudanjamur/assets/js/slider.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div id="header" class="span-24 last">
+                <div id="logo" class="span-9">
+                    <h1><a href="http://localhost/kutudanjamur/" title="Kutu dan Jamur - ramuan organik anti kutu dan jamur untuk anjing, kucing, tanaman, dan lingkungan rumah" class="alogo">Kutu dan Jamur - ramuan organik anti kutu dan jamur untuk anjing, kucing, tanaman, dan lingkungan rumah</a></h1>
+                    <h2>ramuan organik anti kutu dan jamur</h2>
+                </div>
+                <div id="menu" class="span-14 last">
+                    <div id="main-menu" class="span-14 last">
+                        <ul id="nav">
+                            <li>
+                                <a href="http://localhost/kutudanjamur/home" title="Home">Home</a>
+                            </li>
+                            <li>
+                                <a href="http://localhost/kutudanjamur/info" title="Info">Info</a>
+                            </li>
+                            <li>
+                                <a href="http://localhost/kutudanjamur/content/faq" title="Tanya Jawab">Tanya Jawab</a>
+                            </li>
+                            <li>
+                                <a href="http://localhost/kutudanjamur/order" title="Keranjang Belanja">Keranjang Belanja</a>
+                            </li>
+                            <li>
+                                <a href="http://localhost/kutudanjamur/content/tentang-kami" title="Tentang Kami">Tentang Kami</a>
+                            </li>
+                            <li>
+                                <a href="http://localhost/kutudanjamur/contact" title="Kontak">Kontak</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div id="content">
+                <div id="home" class="span-14 prepend-9 append-1 last">
+	<h1>Menyehatkan ayam petelor / ternak Menghilangkan kutu unggas Memperlancar kicauan burung</h1>
+</div>
+<div id="body" class="span-22 prepend-1 append-1 last">
+    <div id="slideshow" class="span-7 ">
+        &nbsp;
+    </div>
+
+	<div id="content" class="span-14 last">
+		<h2>Ayam dan Unggas</h2>
+		<div><p>Menyehatkan ayam petelor / ternak 					Menghilangkan kutu unggas 					Memperlancar kicauan burung Menyehatkan ayam petelor / ternak 					Menghilangkan kutu unggas 					Memperlancar kicauan burung</p></div>
+	</div>
+</div>
+
+
+            </div>
+            <div id="footer" class="span-24 last">
+                <div id="copyright" class="span-12 prepend-1">
+                    &copy; 2010 Kutu Dan Jamur | All Right Reserved
+                    <br>
+                    <a href="http://infinitidea.com/" title="Infinitidea Online Media Strategy" target="_blank">Powered by Infinitidea Online Media Strategy</a>
+					|{elapsed_time}|{memory_usage}
+                </div>
+                <div id="cloud" class="span-11 last">
+                    &nbsp;
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

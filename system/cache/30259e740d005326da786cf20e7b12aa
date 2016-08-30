@@ -1,0 +1,93 @@
+1291220916TS---><!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="keywords" content="some meta keyword">
+        <meta name="description" content="some description">
+        <meta name="distribution" content="Global">
+        <meta name="revisit-after" content="1 days">
+        <meta name="robots" content="index,follow">
+        <meta name="googlebot" content="index,follow">
+        <title>Demank Computer -
+            No Data Found        </title>
+        <link rel="stylesheet" href="http://localhost/demankcomp/assets/css/screen.css" type="text/css" media="screen, projection">
+        <!--[if lt IE 8]><link rel="stylesheet" href="http://localhost/demankcomp/assets/css/ie.css" type="text/css"><![endif]-->
+        <link rel="stylesheet" href="http://localhost/demankcomp/assets/css/print.css" type="text/css" media="print">
+        <script type="text/javascript" src="http://localhost/demankcomp/assets/js/jquery-1.4.1.min.js"></script>
+        <script type="text/javascript" src="http://localhost/demankcomp/assets/js/slider.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div id="header" class="span-24 last">
+                <div id="logo" class="span-9">
+                    <h1><a href="http://localhost/demankcomp/" title="Kutu dan Jamur - ramuan organik anti kutu dan jamur untuk anjing, kucing, tanaman, dan lingkungan rumah" class="alogo">Kutu dan Jamur - ramuan organik anti kutu dan jamur untuk anjing, kucing, tanaman, dan lingkungan rumah</a></h1>
+                    <h2>ramuan organik anti kutu dan jamur</h2>
+                </div>
+                <div id="menu" class="span-14 last">
+                    <div id="main-menu" class="span-14 last">
+                        <ul id="nav">
+                            <li>
+                                <a href="http://localhost/demankcomp/home" title="Home">Home</a>
+                            </li>
+                            <li>
+                                <a href="http://localhost/demankcomp/info" title="Info">Info</a>
+                            </li>
+                            <li>
+                                <a href="http://localhost/demankcomp/ask" title="Tanya Jawab">Tanya Jawab</a>
+                            </li>
+                            <li>
+                                <a href="http://localhost/demankcomp/order" title="Keranjang Belanja">Keranjang Belanja</a>
+                            </li>
+                            <li>
+                                <a href="http://localhost/demankcomp/content/tentang-kami" title="Tentang Kami">Tentang Kami</a>
+                            </li>
+                            <li>
+                                <a href="http://localhost/demankcomp/contact" title="Kontak">Kontak</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div id="content">
+                <div id="home" class="span-14 prepend-9 append-1 last">
+	<h1><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index:  content_excerpt</p>
+<p>Filename: views/content.php</p>
+<p>Line Number: 2</p>
+
+</div></h1>
+</div>
+<div id="body" class="span-22 prepend-1 append-1 last">
+    <div id="slideshow" class="span-7 ">
+        &nbsp;
+    </div>
+
+	<div id="content" class="span-14 last">
+		<h2><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index:  content_title</p>
+<p>Filename: views/content.php</p>
+<p>Line Number: 10</p>
+
+</div></h2>
+		<div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index:  content_body</p>
+<p>Filename: views/content.php</p>
+<p>Line Number: 11</p>
+
+</div></div>
+	</div>
+</div>
+
+
